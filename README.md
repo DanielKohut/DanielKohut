@@ -1,5 +1,7 @@
 👋 Hi, I'm Daniel Kohut
+
 💼 Hosting Engineer @ Data Centre
+
 I dedicate time every day to learning and improving myself because consistent growth is one of the best long-term investments.
 
 🚀 Skills & Technologies
