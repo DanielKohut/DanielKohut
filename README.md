@@ -20,6 +20,9 @@ My goal is to become a Cloud Engineer. I believe that:
 "There are no unsolvable problems, only insufficient attempts."
 
 📫 Connect with Me
+
 Website: danielkohut.com
+
 LinkedIn: linkedin.com/in/daniel-kohut
+
 Strava: strava.com/athletes/daniel-kohut
