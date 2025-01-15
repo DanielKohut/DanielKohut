@@ -21,8 +21,8 @@ My goal is to become a Cloud Engineer. I believe that:
 
 📫 Connect with Me
 
-Website: danielkohut.com
+**Website:** [danielkohut.com](https://danielkohut.com)
 
-LinkedIn: linkedin.com/in/daniel-kohut
+**LinkedIn:** [linkedin.com/in/daniel-kohut](https://www.linkedin.com/in/daniel-kohut/)
 
-Strava: strava.com/athletes/daniel-kohut
+**Strava:** [strava.com/daniel-kohut](https://www.strava.com/athletes/daniel-kohut)
