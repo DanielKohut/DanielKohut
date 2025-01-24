@@ -15,8 +15,6 @@ I enjoy building web applications but welcome any new challenges.
 🔨 Current Project
 I'm currently working on a private project that I'll share once it's ready for release.
 
-🎯 Career Goals
-My goal is to become a Cloud Engineer. I believe that:
 "There are no unsolvable problems, only insufficient attempts."
 
 📫 Connect with Me
